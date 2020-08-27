@@ -8,8 +8,8 @@
 ## Installation
 The Module placed in folder "Netopia"
 1. put this code inside of <your_magento_root>/app/code/
-2. SSH to your Magento proiect and ru the following command
-3. Download your keys from https://admin.mobilpay.ro/ for Sandbox and Live then copy the Keys in <your_magento_root>/app/code/Netopia/Netcard/etc/**certificates**
+2. SSH to your Magento proiect and run the following command
+3. Download your keys from https://admin.mobilpay.ro/ for Live or https://sandbox.mobilpay.ro  for Sandbox then copy the Keys in <your_magento_root>/app/code/Netopia/Netcard/etc/**certificates**
 * <code>php bin/magento setup:upgrade</code>
 * <code>php bin/magento setup:static-content:deploy</code>
 * <code>php bin/magento ca:cl</code>

@@ -9,7 +9,7 @@
 The Module placed in folder "Netopia"
 1. put this code inside of <your_magento_root>/app/code/
 2. SSH to your Magento proiect and run the following command
-3. Download your keys from https://admin.mobilpay.ro/ for Live or https://sandbox.mobilpay.ro  for Sandbox then copy the Keys in <your_magento_root>/app/code/Netopia/Netcard/etc/**certificates**
+3. Download your keys from https://admin.mobilpay.ro/ for Live or https://sandbox.mobilpay.ro  for Sandbox and then copy the Keys in <your_magento_root>/app/code/Netopia/Netcard/etc/**certificates**
 * <code>php bin/magento setup:upgrade</code>
 * <code>php bin/magento setup:static-content:deploy</code>
 * <code>php bin/magento ca:cl</code>
@@ -20,4 +20,4 @@ By run the following command you can make sure, if this module is installed succ
 
 ## After installation
 Recommended to firstly, go to Admin panel & fill the necessary data
-<code><your_magento_admin>->Stores->Configuration->Sales->Payment Methods->Netopia Payment</code>
+<code><your_magento_admin>->Stores->Configuration->Sales->Payment Methods->Netopia Payments</code>

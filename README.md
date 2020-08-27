@@ -17,7 +17,7 @@ The Module placed in folder "Netopia"
    Note : if you would like to have possibility to work with both mode (**Sandbox and Live**), you will need the keys for each mode.
 
 
-## verification
+## Verification
 By run the following command you can make sure, if this module is installed successfully on your Magento Proiect
 * <code>php bin/magento module:status</code>
 

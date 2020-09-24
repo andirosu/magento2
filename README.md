@@ -16,6 +16,7 @@ The Module placed in folder "Netopia"
 4. Enable the module from **Advanced configuration**
 4. Download your keys from https://admin.mobilpay.ro/ for Live mode and https://sandbox.mobilpay.ro for Sandbox mode.
    Set your Mode at Mode **Configuration** and  Upload the certificates.
+   
    Note : if you would like to have possibility to work with both mode (**Sandbox and Live**), you will need the keys for each mode.
 
 

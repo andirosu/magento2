@@ -14,7 +14,9 @@ The Module placed in folder "Netopia"
     * <code>php bin/magento ca:cl</code>
 3.  Complete the **Basic Configuration**   
 4. Enable the module from **Advanced configuration**
-4. Download your keys from https://admin.mobilpay.ro/ for Live mode and https://sandbox.mobilpay.ro for Sandbox mode.
+    ###### Additional option
+    By Enable the **Allow mobilPay WALLET Payment** you will give this option to your clients to pay also via **mobilPay WALLET** by scan a simple **QrCode** 
+5. Download your keys from https://admin.mobilpay.ro/ for Live mode and https://sandbox.mobilpay.ro for Sandbox mode.
    Set your Mode at Mode **Configuration** and  Upload the certificates.
    
    Note : if you would like to have possibility to work with both mode (**Sandbox and Live**), you will need the keys for each mode.
